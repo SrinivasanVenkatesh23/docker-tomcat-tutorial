@@ -1,4 +1,4 @@
-FROM SrinivasanVenkatesh23/dockertomcat
+FROM srinivasanvenkatesh23/dockertomcat
 LABEL Author="Venkatesh"
 LABEL description="Use dockertomcat image as base image for dockertomcat deployment"
 USER root
